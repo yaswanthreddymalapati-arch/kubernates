@@ -1,7 +1,7 @@
 # kubernates
 #!/bin/bash
 # Kubernetes installation script for Ubuntu (Master and Worker)
-# Author: Prasanth Reddy
+# Author: yaswanth Reddy
 
 set -e
 
